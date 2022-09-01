@@ -1,0 +1,10 @@
+### DaBoss3D Version
+version 0.1.1
+
+New install:
+-Terminator
+-Nerd Fonts
+-Starship
+-XFCE Dark Theme
+
+version 0.1.0
