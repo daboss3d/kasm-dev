@@ -5,7 +5,6 @@ The aim of this is creating a DevOps Docker image for KASM Workspaces (KASM Tech
 Based on Ubuntu Jammy with Node.js installed.
 
 
-
 # Build 
 Change for your configs
 sudo docker build -t daboss3d/kasm-ubuntu-jammy-devops:latest -f dockerfile-kasm-ubuntu-jammy-devops . 
