@@ -108,7 +108,9 @@ COPY ./src/assets/backgrounds/wallpaper-code.jpg /usr/share/extra/backgrounds/bg
 # Copy version file
 COPY ./src/daboss/devops-version.txt /home 
 
-
+# Config Git Testing
+# RUN git config --global user.name "daboss3d"
+# RUN git config --global user.email "daboss3d@gmail.com"
 
 ######### End Customizations ###########
 
